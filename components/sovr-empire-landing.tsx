@@ -124,7 +124,7 @@ export default function SOVREmpireLanding() {
           🏛️ WELCOME TO THE STAGE
         </Badge>
         <h1 className="text-6xl font-extrabold tracking-tight mb-6 leading-tight">
-          THE <span className="text-cyan-400">SOVR</span>
+          <span>THE </span><span className="text-cyan-400">SOVR</span>
           <br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-400 to-purple-500">
             EMPIRE
